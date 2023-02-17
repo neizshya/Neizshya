@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @phreneia
+- 👋 Hi, I’m @neizshya
 - 👀 I’m interested in Kpop
-- 🌱 I’m currently learning about php (using laravel), python, and interested to learn about flutter
+- 🌱 I’m currently learning about react in deep and working as FrontEnd Dev using react
 
 
 <!---
